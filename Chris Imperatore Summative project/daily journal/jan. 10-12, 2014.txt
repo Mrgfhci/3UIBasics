@@ -1,0 +1,14 @@
+changed the background to peter's background.
+
+drew a red platform for my character to jump onto.
+
+added a hit detection function to check if the player in on the red platform.
+
+added the red platform to the stage and it moves with the background so it appears stationary.
+
+added an array on images for the jumping action.
+
+added large amout of comments for clarity of the code
+
+
+

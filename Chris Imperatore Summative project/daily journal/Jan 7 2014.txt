@@ -1,0 +1,11 @@
+scraped the idea of using a gif.
+
+made an array that loops through the frames instead.
+
+the gifs where moving to fast and the only way to slow them down is to slow down the fps of the entire
+
+game which made everything jumpy.
+
+i read over this article which gave me a better idea of how to time my game and the structure of the game overall
+
+http://www.koonsolo.com/news/dewitters-gameloop/.

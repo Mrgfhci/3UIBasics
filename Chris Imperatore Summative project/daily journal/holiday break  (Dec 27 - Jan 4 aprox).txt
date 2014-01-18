@@ -1,0 +1,6 @@
+played arround with making a image move around on a background.
+
+basic loading images and backgrounds.
+
+no animations yet.
+

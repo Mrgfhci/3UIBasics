@@ -1,0 +1,23 @@
+gifs for player is playing muchtn o fast, i need to find soemthing to slow down the frame speed.
+
+I found a chrome addon called GIF scrubber, maybe it could help. I also downloaded a  chrome 
+
+extention to make my owns gifs if the fist one can't help with my problem. I tried the gif 
+
+creator and it works great, you can controll the speed of your GIF and resize it to any size you want. 
+
+I also use a site called http://gif-explode.com/ which lets me get the single frames from any gif 
+
+and i can just modify them with the gif creator by uploading the images myself. 
+
+Their is  aproblem with this gif creator though, it puts a black fill in the background of the GIF which i need gone.
+
+It also puts the sits name in the bottom of the gif which is annoying. 
+
+I think im just going to try to slow down the original GIF because this is becoming a pain.
+
+I'm having a hard time find a program to slowdown the frame speed of gifs. 
+
+I'm think about just having an array the loops through the different frames.
+
+found some more gifs i would like for characters.

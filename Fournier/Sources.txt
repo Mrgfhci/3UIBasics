@@ -1,0 +1,2 @@
+For user input: https://www.student.cs.uwaterloo.ca/~cs132/Patterns/guiPatterns/guipat_TextField.html
+		http://stackoverflow.com/questions/5752307/how-to-retrive-value-from-jtextfield-in-java-swing

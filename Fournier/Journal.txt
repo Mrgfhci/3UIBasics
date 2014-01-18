@@ -1,0 +1,15 @@
+Mon. Jan. 6th
+	Started with basic frame and panel.
+
+Wed. Jan. 8th
+	Created a user input textfield, and labels for the title and numbers. 
+
+Fri. Jan. 10th
+	Got numbers to change when user inputs an anwser.
+
+Mon. Jan. 13th
+	Got score clock working aswell as once 10 questions have been answered the textfield becomes disabled.
+Also, made it look more like a multiplication question.
+
+Tues. Jan. 14th
+	Put finishing touches on project. Made a Question # label that gets updated for each question. 
